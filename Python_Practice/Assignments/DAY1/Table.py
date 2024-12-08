@@ -1,0 +1,22 @@
+var1= int(input("enter the number for the table "))
+var2=1
+
+print(var1,' X ',var2,' = ',var1*var2) 
+var2+=1
+print(var1,' X ',var2,' = ',var1*var2)
+var2+=1
+print(var1,' X ',var2,' = ',var1*var2)
+var2+=1
+print(var1,' X ',var2,' = ',var1*var2)
+var2+=1
+print(var1,' X ',var2,' = ',var1*var2)
+var2+=1
+print(var1,' X ',var2,' = ',var1*var2)
+var2+=1
+print(var1,' X ',var2,' = ',var1*var2)
+var2+=1
+print(var1,' X ',var2,' = ',var1*var2)
+var2+=1
+print(var1,' X ',var2,' = ',var1*var2)
+var2+=1
+print(var1,' X ',var2,' =',var1*var2)

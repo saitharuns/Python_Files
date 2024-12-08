@@ -1,0 +1,70 @@
+C is a compiled the entirly once and shows the error
+Python is compiled line by line and it is an interpruter
+
+
+Arethmetic operators
++
+-
+/
+%
+*
+
+Relational operators
+==
+>=
+<=
+!=
+>
+<
+
+Logical operators
+
+AND
+OR
+NOT
+
+Truth table
+
+AND
+0 0 0
+0 1 0
+1 0 0
+1 1 1
+
+OR
+
+0 0 0
+0 1 1
+1 0 1
+1 1 1
+
+not
+0   1
+1   0
+
+bitwise operators
+
+& AND
+| OR
+~ NOT
+<< leftshift
+>> rightshift
+
+identity operator
+
+is 
+is not
+
+membership operator
+
+in
+not in
+
+conditional statements
+
+if
+syntax
+if(condion)
+else
+elif
+nested if(if elif,elif)
