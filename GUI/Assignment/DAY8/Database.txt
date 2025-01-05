@@ -1,0 +1,31 @@
+
+NAME   :SAI THARUN S
+DOB    :21 december 2001
+PLACE  :bangarapet
+MOBILE :9535023686
+MAIL   :saitharuns@outlook.com
+________________________________
+NAME   :Vignesh
+DOB    :01 Jan 2001
+PLACE  :Bangalore
+MOBILE :9876543210
+MAIL   :wikki@gmail.com
+________________________________
+NAME   :Toni
+DOB    :21-12-2001
+PLACE  :KGF
+MOBILE :9073221548
+MAIL   :toni@gmail.com
+________________________________
+NAME   :sai
+DOB    :21 december
+PLACE  :bangarapet
+MOBILE :9535023686
+MAIL   :saitharuns@outlook.com
+________________________________
+NAME   :sai
+DOB    :21 december 2001
+PLACE  :Bangarpet
+MOBILE :1234567876
+MAIL   :sai@gmail.com
+________________________________
